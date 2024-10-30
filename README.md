@@ -6,4 +6,5 @@ Features:
  - Classic Program Manager interface
  - Built from scratch in Java (Swing)
  - Lightweight and minimal, yet functional
+
 Experience the feel of retro computing with the flexibility of Java!
